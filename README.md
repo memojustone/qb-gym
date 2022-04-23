@@ -1,5 +1,5 @@
 # qb-gym
- gym and skill system for qbcore
+ gym and skillsystem based on GTA’s existing skills
  
  ## Dependencies:
 - [cd_drawtextui](https://github.com/dsheedes/cd_drawtextui)
