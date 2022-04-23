@@ -1,5 +1,5 @@
 # qb-gym
- gym and skill system to for qbcore
+ gym and skill system for qbcore
  
  ## Dependencies:
 - [cd_drawtextui](https://github.com/dsheedes/cd_drawtextui)
